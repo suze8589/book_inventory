@@ -1,4 +1,4 @@
-# Library Management System
+# Book Management System
 
 This project is a simple web application for managing a library's book inventory. It allows users to add, view, update, and delete books from the inventory.
 
